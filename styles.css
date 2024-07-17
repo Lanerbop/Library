@@ -339,7 +339,7 @@ FEATURES
 }
 
 .book__img {
-    max-height: 380px;
+    max-height: 352px;
     transition: all 250ms ease;
     cursor: not-allowed;
 }
